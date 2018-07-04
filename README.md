@@ -121,4 +121,15 @@ else
 ## Images
 
 Cat meme: 
+
 ![cat meme](42-Silly-Cat-Memes.jpg)
+
+Resized cat image:
+
+<img src="42-Silly-Cat-Memes.jpg" width=150/>
+
+<img src="https://media.mnn.com/assets/images/2013/05/grumpyCatComplain.jpg.838x0_q80.jpg" width=150/>
+
+This does not work, you will need the image source!
+
+![google search](https://www.google.co.nz/search?q=meme+cat&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA3LqjwobcAhXLjpQKHdTxCRsQ_AUICigB&biw=1242&bih=557#imgrc=AhAgt-J5L0julM:)
